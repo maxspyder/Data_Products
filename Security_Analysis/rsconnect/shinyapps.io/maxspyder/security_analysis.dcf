@@ -1,0 +1,10 @@
+name: security_analysis
+title:
+username:
+account: maxspyder
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2516302
+bundleId: 3328624
+url: https://maxspyder.shinyapps.io/security_analysis/
+when: 1593420213.62751
